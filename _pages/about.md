@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi 👋, I'm LiYu.
+Hi 👋, I'm LiYu, a third-year undergraduate student studying at at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), majoring in information security. My research direction is artificial intelligence security, which specifically involves backdoor attacks in the field of computer vision and speech recognition, as well as defense, adversarial samples, and multimodal face recognition technology
 
 
 
