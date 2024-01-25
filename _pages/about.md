@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hi 👋, I'm LiYu.
 
 
 
@@ -25,7 +26,7 @@ redirect_from:
 
 # 🏆 Competition Awards
 - 🎖 **First Prize.** The 16th NATIONAL COLLEGE STUDENT INFORMATION SECURITY CONTEST *2023.08*
-- **First Prize.** The 15th "Huazhong Cup" College Student Mathematical Modeling Challenge in 2023 *2023.05*
+- **First Prize.** The 15th "Huazhong Cup" College Student Mathematical Modeling Challenge *2023.05*
 - **Meritorious Winner.** 2023 Mathematical Contest In Modeling *2023.04*
 - **First Prize.** 2023 "Huashu Cup" International Mathematical Contest in Modeling *2023.02*
 - **Second Prize.** The 14th National College Student Mathematics Competition in Hubei Division *2022.11*
