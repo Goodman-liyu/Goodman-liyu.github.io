@@ -20,35 +20,26 @@ redirect_from:
 
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
- -->
 # 🏆 Competition Awards
- 
-# 🎖 Scholarships and Honors
-
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+ 🎖
+# 🥇 Scholarships and Honors
+- *2023.12* **First Prize for Advanced Individual in Learning** (Award Rate:GPA Top Three) *School of Cyber Science and Engineering*
+- *2023.12* **Advanced individuals in scientific and technological innovation** *School of Cyber Science and Engineering*
+- *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2023.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
+- *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
+- *2022.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022.09* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
+- *2022.09* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
+  
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*,Undergraduate, Information Security Major, School of Cyber Science and Engineering, College, Wuhan Univeristy, Wuhan Hubei.
+- *2018.09 - 2021.06*, Senior Middle School, Zhengzhou No. 7 Middle School, Zhengzhou Henan.
+- *2015.09 - 2018.06*, Junior Middle School, High-tech Zone Experimental Middle School, Zhengzhou Henan.
+
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
