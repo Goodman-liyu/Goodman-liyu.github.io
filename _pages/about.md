@@ -25,12 +25,14 @@ Hi 👋, I'm LiYu.
 # 📝 Publications 
 
 # 🏆 Competition Awards
-- 🎖 **First Prize.** The 16th NATIONAL COLLEGE STUDENT INFORMATION SECURITY CONTEST *2023.08*
+- **First Prize🎖.** The 16th NATIONAL COLLEGE STUDENT INFORMATION SECURITY CONTEST *2023.08*
 - **First Prize.** The 15th "Huazhong Cup" College Student Mathematical Modeling Challenge *2023.05*
 - **Meritorious Winner.** 2023 Mathematical Contest In Modeling *2023.04*
 - **First Prize.** 2023 "Huashu Cup" International Mathematical Contest in Modeling *2023.02*
 - **Second Prize.** The 14th National College Student Mathematics Competition in Hubei Division *2022.11*
 - **Second Prize.** The 3rd Whu CARTOVISION Map Design Competition *2022.10*
+
+  
 # 🥇 Scholarships and Honors
 - *2023.12* **First Prize for Advanced Individual in Learning** (Award Rate:GPA Top Three) *School of Cyber Science and Engineering*
 - *2023.12* **Advanced individuals in scientific and technological innovation** *School of Cyber Science and Engineering*
