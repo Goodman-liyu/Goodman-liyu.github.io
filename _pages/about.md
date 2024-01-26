@@ -51,7 +51,7 @@ As an undergraduate, I am well aware that I still have a lot to do and that I st
 - 
 <span class='anchor' id="-educations"></span>
 # 📖 Educations
-- *2021.09 - now*,Undergraduate, Information Security Major, School of Cyber Science and Engineering, College, Wuhan Univeristy, Wuhan Hubei.
+- *2021.09 - now*, Undergraduate, Information Security Major, School of Cyber Science and Engineering, College, Wuhan Univeristy, Wuhan Hubei.
 - *2018.09 - 2021.06*, Senior Middle School, Zhengzhou No. 7 Middle School, Zhengzhou Henan.
 - *2015.09 - 2018.06*, Junior Middle School, High-tech Zone Experimental Middle School, Zhengzhou Henan.
 
