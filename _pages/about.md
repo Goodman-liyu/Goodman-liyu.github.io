@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi 👋, I'm LiYu, a third-year undergraduate student studying at at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), majoring in information security. My research interest lies in Artificial Intelligence (AI) Security & Privacy, which specifically involves backdoor attacks and defense in the field of computer vision and speech recognition, adversarial samples, and multimodal face recognition technology.
+Hi 👋, I'm LiYu, a third-year undergraduate student studying at at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), majoring in information security. My research interest lies in Artificial Intelligence (AI) Security & Privacy, which specifically involves backdoor attacks and defense in the field of computer vision and speech recognition, adversarial samples, model fairness, and multimodal face recognition technology.
 
 In my sophomore year, I joined the [NIS&P Lab](http://nisplab.whu.edu.cn/)and studied with Prof.Qian Wang, and I am very grateful to the Lab for providing me with various resources and allowing me to participate in my first academic conference as an undergraduate. I would like to thank Mr.Qian Wang and the seniors in the laboratory for their help in helping me cope with one difficulty after another at the initial stage of scientific research.
 
