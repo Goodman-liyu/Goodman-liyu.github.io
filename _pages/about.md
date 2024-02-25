@@ -31,6 +31,7 @@ As an undergraduate, I am well aware that I still have a lot to do and that I st
 
 <span class='anchor' id="-competition-awards"></span>
 # 🏆 Competition Awards
+- **Second Prize.**  China Undergraduate Mathematical Contest in Modeling *2023.09*
 - **First Prize🎖.** The 16th NATIONAL COLLEGE STUDENT INFORMATION SECURITY CONTEST *2023.08*
 - **First Prize.** The 15th "Huazhong Cup" College Student Mathematical Modeling Challenge *2023.05*
 - **Meritorious Winner.** 2023 Mathematical Contest In Modeling *2023.04*
