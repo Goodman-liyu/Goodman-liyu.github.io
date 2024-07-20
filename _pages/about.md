@@ -31,6 +31,8 @@ As an undergraduate, I am well aware that I still have a lot to do and that I st
 
 <span class='anchor' id="-competition-awards"></span>
 # 🏆 Competition Awards
+- **Third Prize.** C/C++ Programming at the 15th National LanQiao Cup Competition Software Competition *2024.06*
+- **First Prize.** University Group A in C/C++ Programming at the 15th LanQiao Cup Competition Software Competition in Hubei *2024.04*
 - **Second Prize.**  China Undergraduate Mathematical Contest in Modeling *2023.09*
 - **First Prize🎖.** The 16th NATIONAL COLLEGE STUDENT INFORMATION SECURITY CONTEST *2023.08*
 - **First Prize.** The 15th "Huazhong Cup" College Student Mathematical Modeling Challenge *2023.05*
